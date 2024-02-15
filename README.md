@@ -55,6 +55,14 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratishpk&show_icons=true&locale=en&layout=compact" alt="pratishpk" /></p>
+<h2><details><summary> 💻📊 GitHub Profile Stats
+  </summary><br/>
+<p align="center">
+ 
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratishpk&show_icons=true&locale=en" alt="pratishpk" /></p>
+ 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratishpk&show_icons=true&locale=en&layout=compact" alt="pratishpk" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratishpk&show_icons=true&locale=en" alt="pratishpk" /></p>
+ </p>
+ 
+</details><br/> 
