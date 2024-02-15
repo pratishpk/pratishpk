@@ -11,11 +11,7 @@
 
 - 🌱 **Currently, focusing on Full Stack Web Developer.**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/pratishpk](https://linktr.ee/pratishpk)
-
 - 📫 How to reach me **ameriyapk2601@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TQukWaP_SXBIA6tz7b6kNNaK0csEm9ax/view?usp=sharing](https://drive.google.com/file/d/1TQukWaP_SXBIA6tz7b6kNNaK0csEm9ax/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
