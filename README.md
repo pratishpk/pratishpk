@@ -7,6 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratishpk&label=Profile%20views&color=0e75b6&style=flat" alt="pratishpk" /> </p>
 
+- 💬  **I have completed Bachelor of Technology from Rajasthan Technical University, Kota.**
+
+- 🌱 **Currently, focusing on Full Stack Web Developer.**
+
 - 👨‍💻 All of my projects are available at [https://linktr.ee/pratishpk](https://linktr.ee/pratishpk)
 
 - 📫 How to reach me **ameriyapk2601@gmail.com**
