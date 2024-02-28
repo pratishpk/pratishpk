@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **ameriyapk2601@gmail.com**
 
+- 👨‍💻 All of my projects are available at **https://pratishkhandelwal.tech/Projects**
+
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
