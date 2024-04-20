@@ -1,7 +1,15 @@
 ![logo](https://github.com/pratishpk/pratishpk/blob/main/Profile%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Pratish Khandelwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+</br>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=200&color=B28CF7&center=true&width=435&lines=Hello+World!!;I'M+A+FRONTEND+DEVELOPER;TECH+ENTHUSIAST" alt="Typing SVG" />
+  </a>
+</p></br>
+</br>
 
 <img align = 'right' alt="coding" width="400" src="https://github.com/pratishpk/pratishpk/blob/main/logo.gif">
 
