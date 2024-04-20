@@ -53,14 +53,17 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<h2><details><summary> 💻📊 GitHub Profile Stats
-  </summary><br/>
-<p align="center">
- 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratishpk&show_icons=true&locale=en" alt="pratishpk" /></p>
- 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratishpk&show_icons=true&locale=en&layout=compact" alt="pratishpk" />
+</br>
+</br>
+</br>
 
- </p>
- 
-</details><br/> 
+### 💻📊 GitHub Profile Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pratishpk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratishpk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratishpk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
