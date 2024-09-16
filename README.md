@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ameriyapk2601@gmail.com**
 
-- 👨‍💻 All of my projects are available at **https://pratishkhandelwal.tech/Projects**
+- 👨‍💻 All of my projects are available at **https://pratishkhandelwal.in/Projects**
 
 - ⚡ Fun fact **I am Funny**
 
