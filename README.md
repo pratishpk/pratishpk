@@ -27,10 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ameriyapratish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameriyapratish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratishpk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratishpk" height="30" width="40" /></a>
-<a href="https://fb.com/mr.pratish.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.pratish.pk" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_pratish.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_pratish.pk" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/pratishpk" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratishpk" height="30" width="auto" /></a>
+<a href="https://fb.com/mr.pratish.pk" target="blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link=" alt="mr.pratish.pk" height="30" width="auto" /></a>
+<a href="https://instagram.com/mr_pratish.pk" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mr_pratish.pk" height="30" width="auto" /></a>
 </p>
 
 ## ⚡ Technologies
